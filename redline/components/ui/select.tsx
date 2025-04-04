@@ -1,0 +1,1 @@
+export const Select = (props: any) => <div>{props.children}</div>;
